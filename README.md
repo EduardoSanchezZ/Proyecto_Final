@@ -1,9 +1,9 @@
-# Repo_structure
-Clase del 28-09-2022
+# Proyecto_Final
+proyecto final para presentar en la materia de Desarrollo de proyecto II
 
 # Estructura de repositorio
 
-El objetivo de este repositorio es implementar las buenas prácticas de acuerdo al paper ["Good Enough Practices in Scientific Computing"](https://arxiv.org/abs/1609.00037) por Greg Wilson, Jennifer Bryan, Karen Cranston, Justin Kitzes, Lex Nederbragt, Tracy K. Teal.
+El objetivo de este repositorio es cooperar entre Eduardo, Rosy y Cristian para crear el proyecto final
 
 La estructura que queremos que tenga este repositorio es la siguiente:
 
