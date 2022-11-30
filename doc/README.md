@@ -1,1 +1,1 @@
-Carpeta con archivo de texto
+Carpeta con gráficas generadas en el análisis
