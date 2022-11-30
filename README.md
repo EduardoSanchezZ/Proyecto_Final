@@ -1,5 +1,9 @@
 # Proyecto_Final
-proyecto final para presentar en la materia de Desarrollo de proyecto II
+Proyecto final para presentar en la materia de Desarrollo de proyecto II
+
+Para el cual utilizamos datos extraidos de Tweets, para hacer su análisis e interpretación de la información. 
+
+
 
 # Estructura de repositorio
 
